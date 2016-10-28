@@ -21,5 +21,5 @@ You can view the code that this walk through creates in [this repository](https:
 ? Do you want a sample app? Just a Hello World
 ? Would you like a router? None
 ```
-4. Your app should now look like this](https://github.com/marcDeSantis/fountain_metro/tree/c0ef296ebb302b9e0c64cd7067f188cd5676af1d)
+4. Your app should now look [like this](https://github.com/marcDeSantis/fountain_metro/tree/c0ef296ebb302b9e0c64cd7067f188cd5676af1d)
 5. You should be able to run your app now by running `gulp serve`
