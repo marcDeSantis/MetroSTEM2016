@@ -31,3 +31,7 @@ You can view the code that this walk through creates in [this repository](https:
 Follow the commits in [this Pull Request](https://github.com/marcDeSantis/fountain_metro/pull/2/commits) to add Bootstrap dependencies, navbar and styling to your project.
 
 Click on each commit to see the file changes related to each step.
+
+### Add some Angular code
+
+Follow the commits in [this Pull Request](https://github.com/marcDeSantis/fountain_metro/pull/3/commits) to add Angular directives and display two way binding functionality.
