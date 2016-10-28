@@ -12,7 +12,7 @@ You can view the code that this walk through creates in [this repository](https:
 1. Create a new directory (folder) on your machine
 2. Invoke the fountainjs generator by running `yo fountain-webapp` in this directory
 3. Choose the following options:
-```
+  ```
 ? Which JavaScript framework do you want? Angular 1
 ? Which module management do you want? Webpack with NPM
 ? Which JS preprocessor do you want? ES2015 today with Babel
