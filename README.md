@@ -8,4 +8,6 @@
 
 ###Helpful Links
 
+- [AngularJS API Reference](https://docs.angularjs.org/api): what can AngularJS do?
+- [Bootstrap](http://getbootstrap.com/): CSS Framework that makes it easy to build a nice UI
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet): learn how to use Markdown, the templating language used in GitHub documentation
