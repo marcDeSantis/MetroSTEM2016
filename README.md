@@ -2,7 +2,8 @@
 
 ###Challenges:
 1. Create a web app with FountainJS using UI-Router. These are the settings you will need at the prompts:
-```
+
+  ```
 ? Which JavaScript framework do you want? Angular 1
 ? Which module management do you want? None with Bower and script injection
 ? Which JS preprocessor do you want? ES2015 today with Babel
@@ -10,7 +11,7 @@
 ? Which Continuous Integration platform do you want? (Press <space> to select, <a> to toggle all, <i> to inverse selection)
 ? Do you want a sample app? Just a Hello World
 ? Would you like a router? Angular UI Router
-```
+  ```
 2. Add a Navigation bar to your app and make it work with a few working links. If you need a hint on how to add the NavBar, you can look back on [this lesson](https://github.com/marcDeSantis/MetroSTEM2016/blob/master/AngularFountainJS.md)
 3. Try adding a login page and get some user authentication working! You will need to build a simple authorization service in AngularJS (you can hardcode the username and password validation for now). You can use the pattern in [this article](https://medium.com/@mattlanham/authentication-with-angularjs-4e927af3a15f#.kychnt1ah) to understand how to enforce a user is authorized using Angular UI router. Read about AngularJS services [here](https://docs.angularjs.org/guide/services)
 
