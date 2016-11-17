@@ -10,7 +10,7 @@
 
   ```
 ? Which JavaScript framework do you want? Angular 1
-? Which module management do you want? None with Bower and script injection
+? Which module management do you want? Webpack with NPM
 ? Which JS preprocessor do you want? ES2015 today with Babel
 ? Which CSS preprocessor do you want? Less
 ? Which Continuous Integration platform do you want? (Press <space> to select, <a> to toggle all, <i> to inverse selection)
