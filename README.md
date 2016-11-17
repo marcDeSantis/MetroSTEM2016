@@ -2,7 +2,8 @@
 
 ###FountainJS fixes:
 1. `npm install -g gulp-cli`
-2. `npm install --save babel-plugin-istanbul`
+2. `npm install -g bower`
+3. `npm install --save babel-plugin-istanbul`
 
 ###Challenges:
 1. Create a web app with FountainJS using UI-Router. These are the settings you will need at the prompts:
