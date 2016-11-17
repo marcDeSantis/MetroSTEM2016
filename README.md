@@ -1,5 +1,7 @@
 # MetroSTEM2016
 
+Add Git download link/instructions.
+
 ###FountainJS fixes:
 1. `npm install -g gulp-cli`
 2. `npm install -g bower`
