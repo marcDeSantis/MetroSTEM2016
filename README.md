@@ -1,6 +1,8 @@
 # MetroSTEM2016
 
-Add Git download link/instructions.
+Follow [these instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) to install Git on your machine.
+
+If you're using Windows, choose the option to allow Git to be used on the command prompt.
 
 ###FountainJS fixes:
 1. `npm install -g gulp-cli`
